@@ -27,4 +27,4 @@ function convertToRoman(num) {
    return result;
  }
  
- convertToRoman(36);
+ console.log(convertToRoman(36));
